@@ -1,0 +1,23 @@
+server:
+  port: 8081
+  
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/circleservice
+    username: root
+    password: pass@word1
+  jpa:
+    hibernate:
+      ddl-auto: update
+      
+spring.jpa.properties.hibernate.dialect: org.hibernate.dialect.MySQL5Dialect
+
+
+
+Hi,
+
+I have paid the HCL SAT fee using google pay UPI and the money is deducted from  my account but the transaction status in HCL page is stuck in pending status.Please help me in this.
+
+ Transaction Id: 
+
+nishanthhs2002@gmail.com
